@@ -98,6 +98,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [AGRank: Augmented Graph-based Unsupervised Keyphrase Extraction](https://aclanthology.org/2022.aacl-main.19/) (Ding & Luo, AACL-IJCNLP 2022)
 1. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://aclanthology.org/2022.naacl-main.419/) (Song et al., NAACL 2022)
 1. [MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction](https://aclanthology.org/2022.findings-acl.34/) (Zhang et al., Findings 2022)
+1. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks]() (Joshi et al., EACL 2023)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
@@ -120,6 +121,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Keyword and Keyphrase Extraction Techniques: A Literature Review](https://www.researchgate.net/publication/272372039_Keyword_and_Keyphrase_Extraction_Techniques_A_Literature_Review) (Siddiqi and Sharan, IJCA 2015)
 1. [Keyphrase Generation: A Multi-Aspect Survey](https://ieeexplore.ieee.org/abstract/document/8981519) (Cano and Bojar, IEEE FRUCT 2019)
 1. [Automatic keyphrase extraction: a survey and trends](https://link.springer.com/article/10.1007/s10844-019-00558-9) (Merrouni et al., JIIS 2020)
+1. [A Survey on Recent Advances in Keyphrase Extraction from Pre-trained Language Models]() (Song et al., EACL 2023)
 
 #### Applications
 1. [Automatic phrase indexing for document retrieval](https://dl.acm.org/doi/pdf/10.1145/42005.42016) (Fagan, SIGIR 1987)
