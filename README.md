@@ -122,6 +122,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Keyphrase Generation: A Multi-Aspect Survey](https://ieeexplore.ieee.org/abstract/document/8981519) (Cano and Bojar, IEEE FRUCT 2019)
 1. [Automatic keyphrase extraction: a survey and trends](https://link.springer.com/article/10.1007/s10844-019-00558-9) (Merrouni et al., JIIS 2020)
 1. [A Survey on Recent Advances in Keyphrase Extraction from Pre-trained Language Models]() (Song et al., EACL 2023)
+1. [From statistical methods to deep learning, automatic keyphrase prediction: A survey](https://www.sciencedirect.com/science/article/pii/S030645732300119X) (Xie et. al., Information Processing & Management 2023)
 
 #### Applications
 1. [Automatic phrase indexing for document retrieval](https://dl.acm.org/doi/pdf/10.1145/42005.42016) (Fagan, SIGIR 1987)
