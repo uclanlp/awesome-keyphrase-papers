@@ -99,6 +99,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://aclanthology.org/2022.naacl-main.419/) (Song et al., NAACL 2022)
 1. [MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction](https://aclanthology.org/2022.findings-acl.34/) (Zhang et al., Findings 2022)
 1. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://aclanthology.org/2023.findings-eacl.82/) (Joshi et al., Findings 2023)
+1. [PromptRank: Unsupervised Keyphrase Extraction Using Prompt]() (Kong et al., ACL 2023)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
