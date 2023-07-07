@@ -164,6 +164,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [AcademicMKP](https://aclanthology.org/2022.findings-naacl.92/) (Gao et al., Findings 2022)
 1. [LipKey](https://aclanthology.org/2022.coling-1.303/) (Koto et al., COLING 2022)
 1. [LDKP](https://arxiv.org/pdf/2203.15349.pdf/) (Mahata et al., arXiv 2022)
+1. [A new dataset for multilingual keyphrase generation](https://openreview.net/pdf?id=47qVX2pa-2) (Piedboeuf and Langlais, NeurIPS 2022 Datasets and Benchmarks track)
 
 #### Tools
 1. [DKPro Keyphrases: Flexible and Reusable Keyphrase Extraction Experiments](https://aclanthology.org/P14-5006/) (Erbs et al., ACL 2014)
