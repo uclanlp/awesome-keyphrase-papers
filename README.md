@@ -58,6 +58,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
 1. [KEA: Practical Automatic Keyphrase Extraction](https://dl.acm.org/doi/pdf/10.1145/313238.313437) (Witten et al., DL 1999)
+1. [A Language Model Approach to Keyphrase Extraction](https://aclanthology.org/W03-1805/) (Tomokiyo & Hurst, MWE 2003)
 1. [TextRank: Bringing Order into Text](https://aclanthology.org/W04-3252/) (Mihalcea & Tarau, EMNLP 2004)
 1. [CollabRank: Towards a Collaborative Approach to Single-Document Keyphrase Extraction](https://aclanthology.org/C08-1122/) (Wan & Xiao, COLING 2008)
 1. [A ranking approach to keyphrase extraction](https://dl.acm.org/doi/10.1145/1571941.1572113) (Jiang et al., SIGIR 2009)
