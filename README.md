@@ -52,8 +52,9 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Representation Learning for Resource-Constrained Keyphrase Generation](https://aclanthology.org/2022.findings-emnlp.49/) (Wu et al., Findings 2022)
 1. [KPDROP: Improving Absent Keyphrase Generation](https://aclanthology.org/2022.findings-emnlp.357/) (Ray Chowdhury et al., Findings 2022)
 1. [Keyphrase Generation Beyond the Boundaries of Title and Abstract](https://aclanthology.org/2022.findings-emnlp.427/) (Garg et al., Findings 2022)
-1. [Data Augmentation for Low-Resource Keyphrase Generation]() (Garg et al., Findings 2023)
-1. [Unsupervised Open-domain Keyphrase Generation]() (Do et al., ACL 2023)
+1. [Unsupervised Open-domain Keyphrase Generation](https://aclanthology.org/2023.acl-long.592/) (Do et al., ACL 2023)
+1. [Data Augmentation for Low-Resource Keyphrase Generation](https://aclanthology.org/2023.findings-acl.534/) (Garg et al., Findings 2023)
+1. [General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation](https://aclanthology.org/2023.findings-acl.102/) (Meng et al., Findings 2023)
 
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
@@ -102,7 +103,9 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://aclanthology.org/2022.naacl-main.419/) (Song et al., NAACL 2022)
 1. [MDERank: A Masked Document Embedding Rank Approach for Unsupervised Keyphrase Extraction](https://aclanthology.org/2022.findings-acl.34/) (Zhang et al., Findings 2022)
 1. [Unsupervised Keyphrase Extraction via Interpretable Neural Networks](https://aclanthology.org/2023.findings-eacl.82/) (Joshi et al., Findings 2023)
-1. [PromptRank: Unsupervised Keyphrase Extraction Using Prompt]() (Kong et al., ACL 2023)
+1. [PromptRank: Unsupervised Keyphrase Extraction Using Prompt](https://aclanthology.org/2023.acl-long.545/) (Kong et al., ACL 2023)
+1. [Improving Embedding-based Unsupervised Keyphrase Extraction by Incorporating Structural Information](https://aclanthology.org/2023.findings-acl.66/) (Song et al., Findings 2023)
+1. [Unsupervised Keyphrase Extraction by Learning Neural Keyphrase Set Function](https://aclanthology.org/2023.findings-acl.156/) (Song et al., Findings 2023)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
