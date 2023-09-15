@@ -154,6 +154,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Bayesian Critiquing with Keyphrase Activation Vectors for VAE-based Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3404835.3463108) (Yang et al., NAACL 2021)
 1. [KPQA: A Metric for Generative Question Answering Using Keyphrase Weights](https://aclanthology.org/2021.naacl-main.170/) (Lee et al., NAACL 2021)
 1. [Arabic Keyphrase Extraction: Enhancing Deep Learning Models with Pre-trained Contextual Embedding and External Features](https://aclanthology.org/2022.wanlp-1.30/) (Alharbi & Al-Muhtasab, WANLP 2022)
+1. [Towards Better Multi-modal Keyphrase Generation via Visual Entity Enhancement and Multi-granularity Image Noise Filtering](https://arxiv.org/abs/2309.04734) (ACM MM 2023)
 
 #### Data/Resources
 1. Please also check out [KeyphraseExtractionSurvey](https://github.com/MySong7NLPer/KeyphraseExtractionSurvey#dataset) for early keyphrase extraction datasets.
