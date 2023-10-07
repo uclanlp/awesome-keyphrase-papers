@@ -4,7 +4,7 @@ Papers about keyphrase generation and extraction
 [Di Wu](https://xiaowu0162.github.io/) and [Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/)
 
 ## Background
-Keyphrases are the phrases that identify the most salient concepts in a document. Keyphrase extraction and keyphrase generation are fundamental tasks connected with numerous NLP and IR applications. In this repo, we summarize influential keyphrase-related papers and resources. Papers are selected from \*ACL, EMNLP, AAAI, SIGIR, and other related conferences. **If you have any suggestions or would like to add some papers, please submit an issue or a pull request. Your contribution is much appreciated!** [KeyphraseExtractionSurvey](https://github.com/MySong7NLPer/KeyphraseExtractionSurvey) is a great repository dedicated to keyphrase extraction. Please also check it out if you are interested in keyphrase extraction.
+Keyphrases are the phrases that identify the most salient concepts in a document. Keyphrase extraction and keyphrase generation are fundamental tasks connected with numerous NLP and IR applications. In this repo, we summarize influential keyphrase-related papers and resources. Papers are selected from \*ACL, EMNLP, AAAI, SIGIR, and other related conferences. **If you have any suggestions or would like to add some papers, please submit an issue or a pull request. Your contribution is much appreciated!** [KeyphraseExtractionSurvey](https://github.com/MySong7NLPer/KeyphraseExtractionSurvey) and [Awesome-Keyphrase-Prediction](https://github.com/HqWu-HITCS/Awesome-Keyphrase-Prediction) are two other great repositories. Also check them out if you are interested.
 
 ## Contents
 - [Background](#background)
