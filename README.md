@@ -108,6 +108,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [PromptRank: Unsupervised Keyphrase Extraction Using Prompt](https://aclanthology.org/2023.acl-long.545/) (Kong et al., ACL 2023)
 1. [Improving Embedding-based Unsupervised Keyphrase Extraction by Incorporating Structural Information](https://aclanthology.org/2023.findings-acl.66/) (Song et al., Findings 2023)
 1. [Unsupervised Keyphrase Extraction by Learning Neural Keyphrase Set Function](https://aclanthology.org/2023.findings-acl.156/) (Song et al., Findings 2023)
+1. [Multi-Task Knowledge Distillation with Embedding Constraints for Scholarly Keyphrase Boundary Classification](https://www2.cs.uic.edu/~cornelia/papers/emnlp23b.pdf) (Park & Caragea, EMNLP 2023)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
