@@ -56,7 +56,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Data Augmentation for Low-Resource Keyphrase Generation](https://aclanthology.org/2023.findings-acl.534/) (Garg et al., Findings 2023)
 1. [General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation](https://aclanthology.org/2023.findings-acl.102/) (Meng et al., Findings 2023)
 1. [Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models](https://arxiv.org/abs/2310.06374) (Wu et al., EMNLP 2023)
-1. [SimCKP: Simple Contrastive Learning of Keyphrase Representations](https://arxiv.org/abs/2310.08221) (Choi et al., Findings 2023) 
+1. [SimCKP: Simple Contrastive Learning of Keyphrase Representations](https://aclanthology.org/2023.findings-emnlp.199/) (Choi et al., Findings 2023) 
 
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
@@ -108,7 +108,10 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [PromptRank: Unsupervised Keyphrase Extraction Using Prompt](https://aclanthology.org/2023.acl-long.545/) (Kong et al., ACL 2023)
 1. [Improving Embedding-based Unsupervised Keyphrase Extraction by Incorporating Structural Information](https://aclanthology.org/2023.findings-acl.66/) (Song et al., Findings 2023)
 1. [Unsupervised Keyphrase Extraction by Learning Neural Keyphrase Set Function](https://aclanthology.org/2023.findings-acl.156/) (Song et al., Findings 2023)
-1. [Multi-Task Knowledge Distillation with Embedding Constraints for Scholarly Keyphrase Boundary Classification](https://www2.cs.uic.edu/~cornelia/papers/emnlp23b.pdf) (Park & Caragea, EMNLP 2023)
+1. [Multi-Task Knowledge Distillation with Embedding Constraints for Scholarly Keyphrase Boundary Classification](https://aclanthology.org/2023.emnlp-main.805) (Park & Caragea, EMNLP 2023)
+1. [SAMRank: Unsupervised Keyphrase Extraction using Self-Attention Map in BERT and GPT-2](https://aclanthology.org/2023.emnlp-main.630) (Kang & Shin, EMNLP 2023)
+1. [HyperRank: Hyperbolic Ranking Model for Unsupervised Keyphrase Extraction](https://aclanthology.org/2023.emnlp-main.997/) (Song et al., EMNLP 2023)
+1. [Mitigating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection](https://aclanthology.org/2023.emnlp-main.1017/) (Song et al., EMNLP 2023)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
