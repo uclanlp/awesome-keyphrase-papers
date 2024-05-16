@@ -129,6 +129,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Scientific Keyphrase Identification and Classification by Pre-Trained Language Models Intermediate Task Transfer Learning](https://aclanthology.org/2020.coling-main.472/) (Park & Caragea, COLING 2020)
 1. [An Empirical Study on Neural Keyphrase Generation](https://aclanthology.org/2021.naacl-main.396/) (Meng et al., NAACL 2021)
 1. [Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://aclanthology.org/2021.naacl-main.330/) (Boudin & Gallina, NAACL 2021)
+1. [KPEval: Towards Fine-Grained Semantic-Based Keyphrase Evaluation](https://arxiv.org/abs/2303.15422) (Boudin & Gallina, Findings 2024)
 
 #### Surveys
 1. [Automatic Keyphrase Extraction: A Survey of the State of the Art](https://aclanthology.org/P14-1119/) (Hasan & Ng, ACL 2014)
@@ -187,6 +188,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [multilingual_keyphrase_generation](https://github.com/Yifan-Gao/multilingual_keyphrase_generation)
 1. [dlkp](https://github.com/midas-research/dlkp)
 1. [DeepKPG](https://github.com/uclanlp/DeepKPG)
+1. [KPEval](https://github.com/uclanlp/KPEval)
 
 ### Conference/Workshop/Tutorials
 - [Automatic Keyphrase Extraction from Text: A Walk-through](https://intelligence-csd-auth-gr.github.io/KE_Tutorial/), ECAI 2020
