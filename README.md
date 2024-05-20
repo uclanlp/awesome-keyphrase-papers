@@ -57,6 +57,9 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation](https://aclanthology.org/2023.findings-acl.102/) (Meng et al., Findings 2023)
 1. [Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models](https://arxiv.org/abs/2310.06374) (Wu et al., EMNLP 2023)
 1. [SimCKP: Simple Contrastive Learning of Keyphrase Representations](https://aclanthology.org/2023.findings-emnlp.199/) (Choi et al., Findings 2023)
+1. [Improving Low-Resource Keyphrase Generation through Unsupervised Title Phrase Generation](https://aclanthology.org/2024.lrec-main.775/) (Kang & Shin, LREC-COLING 2024)
+1. [Keyphrase Generation: Lessons from a Reproducibility Study](https://aclanthology.org/2024.lrec-main.849/) (Thomas & Vajjala, LREC-COLING 2024)
+1. [On Leveraging Encoder-only Pre-trained Language Models for Effective Keyphrase Generation](https://aclanthology.org/2024.lrec-main.1083/) (Wu et al., LREC-COLING 2024)
 
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
@@ -113,6 +116,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [HyperRank: Hyperbolic Ranking Model for Unsupervised Keyphrase Extraction](https://aclanthology.org/2023.emnlp-main.997/) (Song et al., EMNLP 2023)
 1. [Mitigating Over-Generation for Unsupervised Keyphrase Extraction with Heterogeneous Centrality Detection](https://aclanthology.org/2023.emnlp-main.1017/) (Song et al., EMNLP 2023)
 1. [Clustering-based Sampling for Few-Shot Cross-Domain Keyphrase Extraction](https://aclanthology.org/2024.findings-eacl.82/) (Mishra et al., Findings 2024)
+1. [Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction](https://aclanthology.org/2024.lrec-main.535/) (Luo et al., LREC-COLING 2024)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
