@@ -55,11 +55,12 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Unsupervised Open-domain Keyphrase Generation](https://aclanthology.org/2023.acl-long.592/) (Do et al., ACL 2023)
 1. [Data Augmentation for Low-Resource Keyphrase Generation](https://aclanthology.org/2023.findings-acl.534/) (Garg et al., Findings 2023)
 1. [General-to-Specific Transfer Labeling for Domain Adaptable Keyphrase Generation](https://aclanthology.org/2023.findings-acl.102/) (Meng et al., Findings 2023)
-1. [Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models](https://arxiv.org/abs/2310.06374) (Wu et al., EMNLP 2023)
+1. [Rethinking Model Selection and Decoding for Keyphrase Generation with Pre-trained Sequence-to-Sequence Models](https://aclanthology.org/2023.emnlp-main.410/) (Wu et al., EMNLP 2023)
 1. [SimCKP: Simple Contrastive Learning of Keyphrase Representations](https://aclanthology.org/2023.findings-emnlp.199/) (Choi et al., Findings 2023)
 1. [Improving Low-Resource Keyphrase Generation through Unsupervised Title Phrase Generation](https://aclanthology.org/2024.lrec-main.775/) (Kang & Shin, LREC-COLING 2024)
 1. [Keyphrase Generation: Lessons from a Reproducibility Study](https://aclanthology.org/2024.lrec-main.849/) (Thomas & Vajjala, LREC-COLING 2024)
 1. [On Leveraging Encoder-only Pre-trained Language Models for Effective Keyphrase Generation](https://aclanthology.org/2024.lrec-main.1083/) (Wu et al., LREC-COLING 2024)
+1. [Improving Absent Keyphrase Generation with Diversity Heads](https://aclanthology.org/2024.findings-naacl.102) (Thomas & Vajjala, Findings 2024)
 
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
@@ -182,6 +183,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [LipKey](https://aclanthology.org/2022.coling-1.303/) (Koto et al., COLING 2022)
 1. [LDKP](https://arxiv.org/pdf/2203.15349.pdf/) (Mahata et al., arXiv 2022)
 1. [A new dataset for multilingual keyphrase generation](https://openreview.net/pdf?id=47qVX2pa-2) (Piedboeuf and Langlais, NeurIPS 2022 Datasets and Benchmarks track)
+1. [Few-TK: A Dataset for Few-shot Scientific Typed Keyphrase Recognition](https://aclanthology.org/2024.findings-naacl.253/) (Lahiri et al., Findings 2024)
 
 #### Tools
 1. [DKPro Keyphrases: Flexible and Reusable Keyphrase Extraction Experiments](https://aclanthology.org/P14-5006/) (Erbs et al., ACL 2014)
