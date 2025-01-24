@@ -122,6 +122,8 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Clustering-based Sampling for Few-Shot Cross-Domain Keyphrase Extraction](https://aclanthology.org/2024.findings-eacl.82/) (Mishra et al., EACL Findings 2024)
 1. [Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction](https://aclanthology.org/2024.lrec-main.535/) (Luo et al., LREC-COLING 2024)
 1. [Match More, Extract Better! Hybrid Matching Model for Open Domain Web Keyphrase Extraction](https://aclanthology.org/2024.findings-acl.2/) (Song et al., ACL Findings 2024)
+1. [Attention-Seeker: Dynamic Self-Attention Scoring for Unsupervised Keyphrase Extraction](https://aclanthology.org/2025.coling-main.335/) (Lopez Zapata et al., COLING 2025)
+1. [Empirical Study of Zero-shot Keyphrase Extraction with Large Language Models](https://aclanthology.org/2025.coling-main.248/) (Kang & Shin, COLING 2025)
 
 #### Evaluation/Empirical Studies/Position
 1. [TermITH-Eval : a French Standard-Based Resource for Keyphrase Extraction Evaluation](https://hal.science/hal-01693805/) (Bougouin, LREC 2016)
@@ -139,6 +141,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [An Empirical Study on Neural Keyphrase Generation](https://aclanthology.org/2021.naacl-main.396/) (Meng et al., NAACL 2021)
 1. [Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://aclanthology.org/2021.naacl-main.330/) (Boudin & Gallina, NAACL 2021)
 1. [KPEval: Towards Fine-Grained Semantic-Based Keyphrase Evaluation](https://aclanthology.org/2024.findings-acl.117/) (Wu et al., ACL Findings 2024)
+1. [Are Your Keywords Like My Queries? A Corpus-Wide Evaluation of Keyword Extractors with Real Searches](https://aclanthology.org/2025.coling-main.133/) (Galletti et al., COLING 2025) 
 
 #### Surveys
 1. [Automatic Keyphrase Extraction: A Survey of the State of the Art](https://aclanthology.org/P14-1119/) (Hasan & Ng, ACL 2014)
