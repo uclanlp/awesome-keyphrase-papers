@@ -64,6 +64,7 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [One2Set + Large Language Model: Best Partners for Keyphrase Generation](https://aclanthology.org/2024.emnlp-main.624/) (Shao et al., EMNLP 2024)
 1. [Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://aclanthology.org/2024.findings-emnlp.33/) (Boudin and Aizawa, EMNLP Findings 2024)
 1. [MetaKP: On-Demand Keyphrase Generation](https://aclanthology.org/2024.findings-emnlp.494/) (Wu et al., EMNLP Findings 2024)
+1. [Zero-Shot Keyphrase Generation: Investigating Specialized Instructions and Multi-sample Aggregation on Large Language Models](https://aclanthology.org/2025.findings-naacl.439/) (Ray Chowdhury et al., Findings 2025)
    
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
