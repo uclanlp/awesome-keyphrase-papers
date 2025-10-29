@@ -65,7 +65,9 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Unsupervised Domain Adaptation for Keyphrase Generation using Citation Contexts](https://aclanthology.org/2024.findings-emnlp.33/) (Boudin and Aizawa, EMNLP Findings 2024)
 1. [MetaKP: On-Demand Keyphrase Generation](https://aclanthology.org/2024.findings-emnlp.494/) (Wu et al., EMNLP Findings 2024)
 1. [Zero-Shot Keyphrase Generation: Investigating Specialized Instructions and Multi-sample Aggregation on Large Language Models](https://aclanthology.org/2025.findings-naacl.439/) (Ray Chowdhury et al., Findings 2025)
-   
+1. [ERU-KG: Efficient Reference-aligned Unsupervised Keyphrase Generation](https://aclanthology.org/2025.acl-long.1398/) (Do et al., ACL 2025)
+1. [Seeking Rational Demonstrations for Large Language Models: A Domain Generalization Approach to Unsupervised Cross-Domain Keyphrase Generation](https://aclanthology.org/2025.acl-short.31/) (Zhao et al., ACL 2025)
+
 #### Keyphrase Extraction Methods
 1. [A statistical learning approach to automatic indexing of controlled index terms](https://dl.acm.org/doi/10.5555/254604.254610) (Leung and Kan, JASIS 1997)
 1. [KEA: Practical Automatic Keyphrase Extraction](https://dl.acm.org/doi/pdf/10.1145/313238.313437) (Witten et al., DL 1999)
@@ -143,7 +145,8 @@ Keyphrases are the phrases that identify the most salient concepts in a document
 1. [Redefining Absent Keyphrases and their Effect on Retrieval Effectiveness](https://aclanthology.org/2021.naacl-main.330/) (Boudin & Gallina, NAACL 2021)
 1. [KPEval: Towards Fine-Grained Semantic-Based Keyphrase Evaluation](https://aclanthology.org/2024.findings-acl.117/) (Wu et al., ACL Findings 2024)
 1. [Are Your Keywords Like My Queries? A Corpus-Wide Evaluation of Keyword Extractors with Real Searches](https://aclanthology.org/2025.coling-main.133/) (Galletti et al., COLING 2025) 
-
+1. [An Analysis of Datasets, Metrics and Models in Keyphrase Generation](https://aclanthology.org/2025.gem-1.76/) (Boudin & Aizawa, GEM 2025)
+   
 #### Surveys
 1. [Automatic Keyphrase Extraction: A Survey of the State of the Art](https://aclanthology.org/P14-1119/) (Hasan & Ng, ACL 2014)
 1. [Keyword and Keyphrase Extraction Techniques: A Literature Review](https://www.researchgate.net/publication/272372039_Keyword_and_Keyphrase_Extraction_Techniques_A_Literature_Review) (Siddiqi and Sharan, IJCA 2015)
